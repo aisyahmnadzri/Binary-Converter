@@ -1,2 +1,2 @@
-# Binary-Converter
-Binary Converter using Assembly Language
+# Binary-Decimal-Converter
+Binary-Decimal Converter using Assembly Language
